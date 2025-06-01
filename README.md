@@ -32,7 +32,7 @@ Decisões de implementação:
 - O sistema usa um vetor estático simples de tamanho máximo 1000 (definido por MAX_PACIENTES).
 - A busca é feita com strncmp para permitir busca por prefixo.
 - As funções são organizadas em arquivos separados (bd_paciente.c e bd_paciente.h) para modularizar o código.
-- O Makefile é usado para compilar o projeto no Windows usando mingw32-make.
+- O Makefile é usado para compilar o projeto no Linux usando make.
 
 Exemplo de dados no bd_paciente.csv:
 
