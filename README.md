@@ -37,6 +37,7 @@ Decisões de implementação:
 Exemplo de dados no bd_paciente.csv:
 
 ID,CPF,Nome,Idade,Data_Cadastro
+
 1,123.456.789-09,João Silva,45,2024-12-01
 
 2,987.654.321-00,Maria Oliveira,30,2024-12-02
